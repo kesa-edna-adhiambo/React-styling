@@ -1,5 +1,17 @@
 .card_names{
     column-count: 5;
     text-align: center;
+  
     
 }
+/* 
+@media screen and (min-width:250px) and (max-width:500px){
+    .card_names{
+        column-count: 3;
+        gap: 10px;
+        text-align: center;
+      
+        
+    }
+
+} */
