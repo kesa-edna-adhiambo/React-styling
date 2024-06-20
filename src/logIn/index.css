@@ -1,22 +1,34 @@
 form{
-    width: 60px;
+    width: 960px;
     border: solid 1px;
     padding: 10px;
+    color: rgb(42, 71, 165);
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+    
 }
 
 input{
-    width:90px;
-    margin: 2% 0;
+    width:790px;
+    margin: 2%;
     padding: 16px 5px;
 }
 
 button{
     margin: 2%;
-    width: 91%;
+    width: 810px;
     padding: 12px 10px;
     border: none;
-    background-color: brown;
+    font-size: x-large;
+    background-color: rgb(42, 71, 165);
     color: aliceblue;
     border-radius: 5px;
     cursor: pointer;
+}
+
+h2{
+    font-size: xx-large;
+    text-align: center;
 }
