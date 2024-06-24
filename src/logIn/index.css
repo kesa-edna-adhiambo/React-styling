@@ -33,3 +33,240 @@ h2{
     font-size: xx-large;
     text-align: center;
 }
+
+
+/* @media screen and (min-width: 280px){
+    form{
+        width: 250px;
+        border: solid 1px;
+        padding: 10px;
+        color: rgb(42, 71, 165);
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+        text-align: center;
+        
+    }
+    
+    input{
+        width:200px;
+        margin: 2%;
+        padding: 16px 5px;
+    }
+    
+    button{
+        margin: 2%;
+        width: 220px;
+        padding: 12px 10px;
+        border: none;
+        font-size: small;
+        background-color: rgb(42, 71, 165);
+        color: aliceblue;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-bottom: 40px;
+    }
+    
+    h2{
+        font-size: small;
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 412px){
+    form{
+        width: 750px;
+        border: solid 1px;
+        padding: 10px;
+        color: rgb(42, 71, 165);
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+        text-align: center;
+        
+    }
+    
+    input{
+        width:600px;
+        margin: 2%;
+        padding: 16px 5px;
+    }
+    
+    button{
+        margin: 2%;
+        width: 620px;
+        padding: 12px 10px;
+        border: none;
+        font-size: x-large;
+        background-color: rgb(42, 71, 165);
+        color: aliceblue;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-bottom: 40px;
+    }
+    
+    h2{
+        font-size: xx-large;
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 601px) and (max-width: 900px){
+    form{
+        width: 750px;
+        border: solid 1px;
+        padding: 10px;
+        color: rgb(42, 71, 165);
+        margin-left: 30px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+        text-align: center;
+        
+    }
+    
+    input{
+        width:600px;
+        margin: 2%;
+        padding: 16px 5px;
+    }
+    
+    button{
+        margin: 2%;
+        width: 220px;
+        padding: 12px 10px;
+        border: none;
+        font-size: x-large;
+        background-color: rgb(42, 71, 165);
+        color: aliceblue;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-bottom: 40px;
+    }
+    
+    h2{
+        font-size: xx-large;
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 915px) and (max-width: 1000px){
+    form{
+        width: 850px;
+        border: solid 1px;
+        padding: 10px;
+        color: rgb(42, 71, 165);
+        margin-left: 80px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+        text-align: center;
+        
+    }
+    
+    input{
+        width:600px;
+        margin: 2%;
+        padding: 16px 5px;
+    }
+    
+    button{
+        margin: 2%;
+        width: 620px;
+        padding: 12px 10px;
+        border: none;
+        font-size: x-large;
+        background-color: rgb(42, 71, 165);
+        color: aliceblue;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-bottom: 40px;
+    }
+    
+    h2{
+        font-size: xx-large;
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 1280px){
+    form{
+        width: 850px;
+        border: solid 1px;
+        padding: 10px;
+        color: rgb(42, 71, 165);
+        margin-left: 470px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        text-align: center;
+        
+    }
+    
+    input{
+        width:600px;
+        margin: 2%;
+        padding: 16px 5px;
+    }
+    
+    button{
+        margin: 2%;
+        width: 620px;
+        padding: 12px 10px;
+        border: none;
+        font-size: x-large;
+        background-color: rgb(42, 71, 165);
+        color: aliceblue;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-bottom: 40px;
+    }
+    
+    h2{
+        font-size: xx-large;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width:912px){
+    form{
+        width: 800px;
+        border: solid 1px;
+        padding: 10px;
+        color: rgb(42, 71, 165);
+        margin-left: 50px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+        text-align: center;
+        
+    }
+    
+    input{
+        width:600px;
+        margin: 2%;
+        padding: 16px 5px;
+    }
+    
+    button{
+        margin: 2%;
+        width: 220px;
+        padding: 12px 10px;
+        border: none;
+        font-size: x-large;
+        background-color: rgb(42, 71, 165);
+        color: aliceblue;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-bottom: 40px;
+    }
+    
+    h2{
+        font-size: xx-large;
+        text-align: center;
+    }
+} */
+
+
+
+
